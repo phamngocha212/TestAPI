@@ -125,5 +125,10 @@ namespace ConsoleApplication4
         {
             return "This is a message";
         }
+
+        private static string GetMessage2()
+        {
+            return "This is a message 2";
+        }
     }
 }
