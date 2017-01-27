@@ -56,7 +56,7 @@ namespace ConsoleApplication4
                     password,
                     jsonDataImportAndPublish);
 
-                //Console.WriteLine(result);
+                Console.WriteLine(result);
 
                 //2. Update customer
                 //xmlData = File.ReadAllText("C:\\Projects\\V-Invoice\\01. Documents\\05. Test API\\UpdateCus.xml");
