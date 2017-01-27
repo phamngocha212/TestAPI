@@ -8,3 +8,8 @@ C:\Projects\V-Invoice\01. Documents\05. Test API\ConsoleApplication4\ConsoleAppl
 C:\Projects\V-Invoice\01. Documents\05. Test API\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
 C:\Projects\V-Invoice\01. Documents\05. Test API\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
 C:\Projects\V-Invoice\01. Documents\05. Test API\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

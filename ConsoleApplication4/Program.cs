@@ -17,7 +17,7 @@ namespace ConsoleApplication4
             string pattern = "01GTKT0/002";
             string serial = "BV/19E";
             string fkey = "SG05320015880";
-            string invNo = "5";
+            //string invNo = "5";
 
             string[] listIdInv = new string[] { "1122", "1123" };
             string jsonData = string.Empty;
@@ -51,10 +51,10 @@ namespace ConsoleApplication4
                 uri = uri + "api/publish/ImportAndPublishInv";
 
                 //1. Import and Publish Invoice
-                //result = CallApi(uri,
-                //    username,
-                //    password,
-                //    jsonDataImportAndPublish);
+                result = CallApi(uri,
+                    username,
+                    password,
+                    jsonDataImportAndPublish);
 
                 //Console.WriteLine(result);
 
