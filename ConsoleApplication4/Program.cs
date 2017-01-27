@@ -117,8 +117,8 @@ namespace ConsoleApplication4
         }
 
         private static void ShowMessageA(string message)
-        {
-            Console.WriteLine(message);
+        {            
+            Console.WriteLine(message + " hello!");
         }
 
         private static string GetMessage()

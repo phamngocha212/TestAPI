@@ -15,6 +15,5 @@ C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\bin\Debug\ConsoleApplication4
 C:\HocTap\git\vInvoice\TestAPI\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
 C:\HocTap\git\vInvoice\TESTAPI_3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
 C:\HocTap\git\vInvoice\TESTAPI_3\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\HocTap\git\vInvoice\TESTAPI_3\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
 C:\HocTap\git\vInvoice\TESTAPI_3\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 C:\HocTap\git\vInvoice\TESTAPI_3\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
