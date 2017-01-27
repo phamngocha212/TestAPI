@@ -115,5 +115,10 @@ namespace ConsoleApplication4
 
             return client.UploadString(URI, jsonData);
         }
+
+        private static string GetMessage()
+        {
+            return "This is a message";
+        }
     }
 }
