@@ -56,6 +56,7 @@ namespace ConsoleApplication4
                     password,
                     jsonDataImportAndPublish);
 
+                Console.WriteLine(result);
                 //Console.WriteLine(result);
                 string s = "Hello api";
                 Console.Write(s);
