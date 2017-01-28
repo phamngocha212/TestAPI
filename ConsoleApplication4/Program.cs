@@ -12,7 +12,7 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             string username = "108admin";
-            string password = "67890@a";
+            string password = "67890@a123";
 
             string pattern = "01GTKT0/002";
             string serial = "BV/19E";
