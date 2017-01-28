@@ -123,7 +123,7 @@ namespace ConsoleApplication4
 
         private static string GetMessage()
         {
-            return "This is a message";
+            return "This is a message2";
         }
 
         private static string GetMessage2()
